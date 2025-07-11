@@ -1,0 +1,31 @@
+<!-- CSS をヘッダーや共通スタイルシートに追加 -->
+<style>
+  .map-responsive {
+    position: relative;
+    width: 100%;
+    height: 0;
+    /* アスペクト比 4:3 → padding-bottom: 75% */
+    /* 16:9 にしたい場合は 56.25% に */
+    padding-bottom: 75%;
+    overflow: hidden;
+  }
+  .map-responsive iframe {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+<!-- ページ内の埋め込み部分 -->
+<section id="contact" style="…（省略）…">
+  <!-- お問い合わせ情報ブロックの上など、任意の場所に -->
+  <div class="map-responsive">
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3256.3273108277813!2d135.12665167544947!3d35.297847772713446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60000352616c4e69%3A0xf344ab65f0d81ec1!2z54yr44K544OG44Kj44Oz!5e0!3m2!1sja!2sjp!4v1752155151845!5m2!1sja!2sjp"
+      allowfullscreen=""
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</section>
