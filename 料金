@@ -1,0 +1,53 @@
+<!-- wp:html -->
+<div style="max-width: 720px; margin: auto; font-family: 'Hiragino Kaku Gothic ProN', 'Meiryo', sans-serif; color: #333; line-height: 1.8;">
+
+  <!-- 利用料金 -->
+  <h2 style="border-bottom: 3px solid #ffd700; padding-bottom: 6px; margin-top: 40px;">🕒 利用料金（税込）</h2>
+  <ul style="list-style: none; padding-left: 0; font-size: 1.05em;">
+    <li>・20分 <span style="float: right;">¥600</span></li>
+    <li>・40分（ねこのおやつ付き） <span style="float: right;">¥1,000</span></li>
+    <li>・1時間（ねこのおやつ付き） <span style="float: right;">¥1,200</span></li>
+  </ul>
+  <p style="margin-top: 10px;">※1時間以降は30分ごとに＋¥300</p>
+
+  <h3 style="margin-top: 25px; color: #cc6699;">【最大料金】</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>・平日 <span style="float: right;">¥2,500</span></li>
+    <li>・土日祝 <span style="float: right;">¥3,000</span></li>
+  </ul>
+
+  <!-- 団体割引 -->
+  <h2 style="border-bottom: 3px solid #90ee90; padding-bottom: 6px; margin-top: 50px;">👥 団体割引</h2>
+  <p style="margin-bottom: 10px;">3名様以上でのご来店で、料金が割引になります。</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>・3名 → <strong>10%OFF</strong></li>
+    <li>・4名 → <strong>20%OFF</strong></li>
+    <li>・5名 → <strong>25%OFF</strong></li>
+    <li>・6名 → <strong>30%OFF</strong></li>
+  </ul>
+  <p style="color: red;">※7名以上は事前にご相談ください</p>
+
+  <!-- 学割 -->
+  <h2 style="border-bottom: 3px solid #ffcc99; padding-bottom: 6px; margin-top: 40px;">🎓 学割</h2>
+  <p><strong>学生証をご提示いただくと、猫カフェ料金が25%OFFになります！</strong></p>
+  <p style="margin-top: 10px;">〈学割の条件〉</p>
+  <ul style="list-style: disc; padding-left: 20px;">
+    <li>学生証の提示</li>
+    <li>2名以上でご来店</li>
+    <li>※小学生のみでの来店は基本的に不可</li>
+  </ul>
+
+  <!-- ナイトパック -->
+  <h2 style="border-bottom: 3px solid #ffd700; padding-bottom: 6px; margin-top: 50px;">🌙 ナイトパック（木曜・土曜限定）</h2>
+  <p><strong>19:00〜22:00の最大3時間フリータイム！</strong><br>通常より最大1,400円もお得です。</p>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>・一般 <span style="float: right;">¥1,200（税込）</span></li>
+    <li>・学生 <span style="float: right;">¥1,000（税込）</span></li>
+  </ul>
+
+</div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
